@@ -1,0 +1,4 @@
+Distance between Point(35.6895,139.6917) and Point(34.0522,-118.2437): 8815.47 km
+Distance between Point(34.0522,-118.2437) and Point(51.5074,-0.1278): 8755.60 km
+Distance between Point(51.5074,-0.1278) and Point(-33.8688,151.2093): 16993.93 km
+Distance between Point(-33.8688,151.2093) and Point(48.8566,2.3522): 16960.50 km
